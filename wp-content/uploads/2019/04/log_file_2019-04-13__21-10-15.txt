@@ -1,0 +1,99 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8888/wordpress
+Data file = /Users/KendallBumbera/Sites/wordpress/wp-content/themes/business-pro-theme/sample.xml
+Widget file = /Users/KendallBumbera/Sites/wordpress/wp-content/themes/business-pro-theme/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat AdWords
+[WARNING] Failed to import product_cat SEO
+[WARNING] Failed to import product_cat Web Design
+
+
+---Importing widgets---
+Header Right : 
+
+Simple Social Icons - No Title - Imported
+
+Primary Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Simple Social Icons - Follow - Imported
+
+Front Page 1 : 
+
+Custom HTML - Create your website with Business Pro - Imported
+
+Front Page 2 : 
+
+Icon - Discovery - Imported
+Icon - Design - Imported
+Icon - Development - Imported
+
+Front Page 3 : 
+
+Custom HTML - Services We Provide - Imported
+Genesis - Featured Page - No Title - Imported
+Genesis - Featured Page - No Title - Imported
+Genesis - Featured Page - No Title - Imported
+
+Front Page 4 : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+Video - No Title - Imported
+
+Front Page 5 : 
+
+Genesis - Portfolio - Our Latest Work - Imported
+
+Front Page 6 : 
+
+Testimonials - No Title - Imported
+
+Before Footer : 
+
+Image - No Title - Imported
+Custom HTML - Let&#039;s work together - Imported
+Custom HTML - No Title - Imported
+
+Footer 1 : 
+
+Custom HTML - Social - Imported
+Simple Social Icons - No Title - Imported
+
+Footer 2 : 
+
+Contact Card - Contact - Imported
+
+Footer 3 : 
+
+Navigation Menu - Navigation - Imported
+
+Footer 4 : 
+
+Genesis - eNews Extended - Newsletter - Imported
+
+
